@@ -1,0 +1,43 @@
+.section1{
+    background-image: url(https://mobirise.com/extensions/floram4/floral-studio/assets/images/sl1-967x725.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 83vh;
+    width: 100%;
+    position: relative;
+    top: 0;
+
+    div{
+        .floral{
+            font-weight: 400;
+        font-size:  18px;
+        font-style:  italic;
+        color: rgb(27, 116, 94);
+        line-height: 27px;
+        text-decoration: none;
+        transform: none;
+        font-family: "Crimson Text";
+        letter-spacing: 0;
+        
+        }
+        .excellent{
+            font-weight: 400;
+            font-size:  46px;
+            font-style:  normal;
+            color: rgb(27, 116, 94);
+            line-height: 50.6px;
+            text-decoration: none;
+            transform: none;
+            font-family:"Quicksand";
+            letter-spacing: 0;
+        }
+        div{
+            position: absolute;
+            margin-top: 18%;
+            display: flex;
+            margin-left: 35%;
+            flex-direction: column;
+        }
+    }
+}

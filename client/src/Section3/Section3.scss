@@ -1,0 +1,211 @@
+.section3{
+    background-image: url('https://mobirise.com/extensions/floram4/floral-studio/assets/images/background1.jpg');
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    // background-position: center;
+}
+.main{
+    padding-top: 8%;
+    .devoted{
+        font-weight: 400;
+        font-size : 18px;
+        font-style:  italic;
+        color: rgb(27, 116, 94);
+        line-height: 27px;
+        text-decoration: none;
+        transform: none;
+        font-family:  "Crimson Text";
+        letter-spacing: 0;
+    }
+    .flower{
+        font-weight: 400;
+        font-size : 46px;
+        font-style:  normal;
+        color: rgb(12, 91, 71);
+        line-height: 50.6px;
+        text-decoration: none;
+        transform: none;
+        font-family: "Quicksand", sans-serif;
+        letter-spacing: 0;
+    }
+}
+
+.cards{
+    margin-top: 7%;
+    margin-top: 7%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    .cardd{
+        width: 334px;
+        height: 419px;
+        margin-bottom: 70px;
+       
+
+        div{
+            img{
+                width: 334px;
+        height: 334px;
+            }
+        }
+        .price{
+            .namee{
+                font-weight: 400;
+            font-size: 22px;
+            font-style:  normal;
+            color: rgb(27, 116, 94);
+            line-height: 33px;
+            text-decoration: none;
+            transform: none;
+            font-family: "Quicksand", sans-serif;
+            letter-spacing: 0;
+            }
+            .dollar{
+                font-weight: 400;
+            font-size: 18px;
+            font-style:  normal;
+            color: rgb(27, 116, 94);
+            line-height: 27px;
+            text-decoration: none;
+            transform: none;
+            font-family: "Quicksand", sans-serif;
+            letter-spacing: 0;
+            margin-top: -12px;
+            }
+        }
+    }
+}
+
+
+
+.button-30 {
+  align-items: center;
+  appearance: none;
+  background-color: #d8e3d5;
+  border-radius: 4px;
+  border: 0;
+  border-width: 0;
+  box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px,rgba(45, 35, 66, 0.3) 0 7px 13px -3px,#D6D6E7 0 -3px 0 inset;
+  box-sizing: border-box;
+  color: #10634e;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: "JetBrains Mono",monospace;
+  height: 48px;
+  justify-content: center;
+  line-height: 1;
+  list-style: none;
+  overflow: hidden;
+  padding-left: 16px;
+  padding-right: 16px;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  transition: box-shadow .15s,transform .15s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  will-change: box-shadow,transform;
+  font-size: 18px;
+  border-color: #d8e3d5;
+}
+
+.button-30:focus {
+  box-shadow: #D6D6E7 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+}
+
+.button-30:hover {
+  box-shadow: rgba(45, 35, 66, 0.4) 0 4px 8px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+  transform: translateY(-2px);
+}
+
+.button-30:active {
+  box-shadow: #D6D6E7 0 3px 7px inset;
+  transform: translateY(2px);
+}
+.eventcards{
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-around;
+}
+.eventcard{
+    color: #10634e ;
+    word-break: break-word;
+   
+    padding: 70px 45px;
+    background: #fef1e6;
+    border: 1px solid #338873;
+    width: 334px;
+    height: 380px;
+
+    .cardtext{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        .birthday{
+            font-weight: 400;
+            font-size:  22px;
+            font-style:  normal;
+            color: rgb(12, 91, 71);
+            line-height: 33px;
+            text-decoration: none;
+            transform: none;
+            font-family: "Quicksand", sans-serif;
+            letter-spacing: 0;
+        }
+        .lorem{
+            font-weight: 400;
+            font-size:  16px;
+            font-style:  normal;
+            color: rgb(27, 116, 94);
+            line-height: 24px;
+            text-decoration: none;
+            transform: none;
+            font-family: "Quicksand", sans-serif;   
+            letter-spacing: 0;
+        }
+       
+            h6{
+                display: flex;
+    align-items: center;
+    justify-content: center;
+                font-weight: 400;
+                font-size:  18px;
+                font-style:  normal;
+                color: rgb(27, 116, 94);
+                line-height: 27px;
+                text-decoration: none;
+                transform: none;
+                font-family:  "Crimson Text";
+                letter-spacing: 0;
+            }
+        
+        span{
+        
+    width: 150px;
+    height: 46px;
+    background-color: #d8e3d5 !important;
+    border-color: #d8e3d5 !important;
+    color: #10634e !important;
+    font-weight: 400;
+    font-size: 16px;
+    font-style: normal;
+    text-decoration: none;
+    transform: none;
+    font-family: "Quicksand", sans-serif;
+    letter-spacing: 0;
+    border-width: 2px;
+    padding: 0.5625rem 2.3125rem;
+    border-radius: 0px;
+    line-height: 4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 29px;
+
+        }
+    }
+}
+

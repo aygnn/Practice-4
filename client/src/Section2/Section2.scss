@@ -1,0 +1,75 @@
+.section2{
+    background-image: url('https://mobirise.com/extensions/floram4/floral-studio/assets/images/background2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+.flowerdiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 6%;
+    .mission{
+        background-color: #1b745e;
+        width: 534px;
+        display: flex;
+        height: 534px;
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: left;
+        padding-top: 30%;
+        padding-left: 22%;
+        padding-right: 12%;
+
+        h5{
+            font-weight: 400;
+            font-size: 46px;
+            font-style:  normal;
+            color: rgb(255, 255, 255);
+            line-height: 50.6px;
+            text-decoration: none;
+            transform: none;
+            font-family: "Quicksand", sans-serif;
+            letter-spacing: 0;
+        }
+        p{
+            font-weight: 400;
+            font-size: 16px;
+            font-style:  normal;
+            color: rgb(255, 255, 255);
+            line-height: 24px;
+            text-decoration: none;
+            transform: none;
+            font-family: "Quicksand", sans-serif;
+            letter-spacing: 0;
+        }
+        span{
+            width: 160px;
+            height: 46px;
+            background-color: #d8e3d5 !important;
+            border-color: #d8e3d5 !important;
+            color: #10634e !important;
+            font-weight: 400;
+            font-size: 16px;
+            font-style:  normal;
+            color: rgb(255, 255, 255);
+            line-height: 24px;
+            text-decoration: none;
+            transform: none;
+            font-family: "Quicksand", sans-serif;
+            letter-spacing: 0;
+            border-width: 2px;
+                padding: 0.5625rem 2.3125rem;
+                border-radius: 0px;
+        }
+    }
+    .flowercol{
+        img{
+           width: 534px;
+           height: 534px;
+        }
+
+
+    
+    }
+}
+}

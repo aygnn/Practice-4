@@ -1,0 +1,110 @@
+.footer{
+    padding-top: 5rem;
+    display: flex;
+    padding-bottom: 5rem;
+    background-color: #e0ecdc;
+    justify-content: center;
+    gap: 11%;
+    text-align: left;
+    .solfooter{
+        .inputs{
+            div{
+                width: 474px;
+            }
+        }
+        img{
+            width: 86px;
+            height: 36px;
+        }
+        span{
+            display: flex;
+          align-items: center;
+            width: 100px;
+            height: 48px;
+            background-color: #d8e3d5 !important;
+            border-color: #d8e3d5 !important;
+            color: #10634e !important;
+            font-family: 'Quicksand', sans-serif;
+            font-size: 1rem;
+            line-height: 1.5;
+            border-width: 2px;
+            white-space: nowrap;
+            padding-left: 30px;
+            padding-right: 30px;
+            overflow: visible;
+            outline: rgba(255, 0, 0, 0.3) solid 1px !important;
+            pointer-events: all;
+        }
+    }
+    .ortafoot{
+        display: flex;
+        flex-direction: column;
+        div{
+            display: flex;
+            flex-direction: column;
+            a{
+                font-weight: 400;
+                font-size:  18px;
+                font-style: italic;
+                color: rgb(12, 91, 71);
+                line-height: 18px;
+                text-decoration: none;
+                transform: none;
+                font-family:  "Crimson Text";
+                letter-spacing: 0;
+            }
+        }
+        p{
+            font-weight: 400;
+            font-size : 22px;
+            font-style:  normal;
+            color: rgb(12, 91, 71);
+            line-height: 22px;
+            text-decoration: none;
+            transform: none;
+            font-family: 'Quicksand', sans-serif;
+            letter-spacing: 0;
+        }
+    }
+    .sagfoot{
+        display: flex;
+        flex-direction: column;
+        div{
+            display: flex;
+            flex-direction: column;
+            a{
+                font-weight: 400;
+                font-size:  18px;
+                font-style: italic;
+                color: rgb(12, 91, 71);
+                line-height: 18px;
+                text-decoration: none;
+                transform: none;
+                font-family:  "Crimson Text";
+                letter-spacing: 0;
+            }
+        }
+        p{
+            font-weight: 400;
+            font-size : 22px;
+            font-style:  normal;
+            color: rgb(12, 91, 71);
+            line-height: 22px;
+            text-decoration: none;
+            transform: none;
+            font-family: 'Quicksand', sans-serif;
+            letter-spacing: 0;
+        }
+    }
+}
+.ensag{
+    font-weight: 400;
+            font-size : 22px;
+            font-style:  normal;
+            color: rgb(12, 91, 71);
+            line-height: 22px;
+            text-decoration: none;
+            transform: none;
+            font-family: 'Quicksand', sans-serif;
+            letter-spacing: 0;
+}

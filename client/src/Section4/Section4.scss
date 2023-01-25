@@ -1,0 +1,30 @@
+.cicekqizlar{
+    display: flex;
+    justify-content: center;
+    .cicekqiz{
+        .cicekyazi{
+            h5{
+                font-weight: 400;
+                font-size:  22px;
+                font-style:  normal;
+                color: rgb(12, 91, 71);
+                line-height: 33px;
+                text-decoration: none;
+                transform: none;
+                font-family: "Quicksand", sans-serif;
+                letter-spacing: 0;
+            }
+            h6{
+                font-weight: 400;
+                font-size: 16px;
+                font-style:  italic;
+                color: rgb(51, 136, 115);
+                line-height: 24px;
+                text-decoration: none;
+                transform: none;
+                font-family: "Quicksand", sans-serif;
+                letter-spacing: 0;
+            }
+        }
+    }
+}
